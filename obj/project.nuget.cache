@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IjapZD6eZv3vs8bAdv50tGunCmmqwvxEZmYJxckdXEvrumHROgtEICRxwO0mR1m3ldfBBJU6sfjbZgvkEgY0w==",
+  "success": true,
+  "projectFilePath": "C:\\PRUEBA\\webjob_genesys\\WebJobDinersHT1\\WebJobGxCGenesys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaraujo\\.nuget\\packages\\ini-parser\\3.4.0\\ini-parser.3.4.0.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.azure.keyvault.core\\1.0.0\\microsoft.azure.keyvault.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.azure.webjobs\\1.1.2\\microsoft.azure.webjobs.1.1.2.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.azure.webjobs.core\\1.1.2\\microsoft.azure.webjobs.core.1.1.2.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.data.services.client\\5.8.4\\microsoft.data.services.client.5.8.4.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.1\\microsoft.windowsazure.configurationmanager.3.2.1.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\purecloudplatform.client.v2\\134.0.0\\purecloudplatform.client.v2.134.0.0.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\restsharp\\106.3.1\\restsharp.106.3.1.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\jaraujo\\.nuget\\packages\\windowsazure.storage\\7.0.0\\windowsazure.storage.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
